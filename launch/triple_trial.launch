@@ -1,0 +1,9 @@
+<launch>
+	<node name = "node1" pkg="rmp0014" type="node1.py" output="screen"/>
+
+	<node name = "node2" pkg="rmp0014" type="node2.py" output="screen"/>
+
+	<node name = "node3" pkg="rmp0014" type="node3.py" output="screen"/>
+
+
+</launch>
